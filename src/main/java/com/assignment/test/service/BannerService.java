@@ -2,7 +2,6 @@ package com.assignment.test.service;
 
 import com.assignment.test.constants.Constants;
 import com.assignment.test.dto.BannersInfoDTO;
-import com.assignment.test.dto.DebitCardInfoDTO;
 import com.assignment.test.dto.StatusInfoDTO;
 import com.assignment.test.repository.BannersRepository;
 import org.springframework.beans.factory.annotation.Autowired;

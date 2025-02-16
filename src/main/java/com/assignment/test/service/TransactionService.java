@@ -1,7 +1,6 @@
 package com.assignment.test.service;
 
 import com.assignment.test.constants.Constants;
-import com.assignment.test.dto.BannersInfoDTO;
 import com.assignment.test.dto.StatusInfoDTO;
 import com.assignment.test.dto.TransactionsInfoDTO;
 import com.assignment.test.repository.TransactionRepository;

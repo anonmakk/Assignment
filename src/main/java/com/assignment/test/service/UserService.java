@@ -2,7 +2,6 @@ package com.assignment.test.service;
 
 import com.assignment.test.constants.Constants;
 import com.assignment.test.dto.StatusInfoDTO;
-import com.assignment.test.dto.TransactionsInfoDTO;
 import com.assignment.test.dto.UsersInfoDTO;
 import com.assignment.test.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
